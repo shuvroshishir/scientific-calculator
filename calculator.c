@@ -256,7 +256,7 @@ int main()
         if (strcmp(expression, "exit") == 0)
         {
             setColor(12);
-            printf("\nExiting Calculator... 👋\n");
+            printf("\nExiting Calculator...\n");
             break;
         }
 
